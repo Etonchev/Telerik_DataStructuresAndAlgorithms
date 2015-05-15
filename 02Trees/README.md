@@ -1,4 +1,4 @@
-﻿Homework: Data structures and algorithms
+Homework: Trees
 ================
 
 ### Problem 1. You are given a tree of N nodes represented as a set of N-1 pairs of nodes (parent node, child node), each in the range (0..N-1). 
